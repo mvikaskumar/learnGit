@@ -8,6 +8,7 @@ public class Hello {
 		System.out.println("In this video we learned about accessing github repo.");
 		System.out.println("From git");
 		//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
+		System.out.println("In this video we learned about accessing github repo.");
 	}
 
 }
